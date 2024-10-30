@@ -1,12 +1,11 @@
 In Java, you can cut or crop images using the BufferedImage class. Here's a simple example demonstrating how to cut a portion of an image and save it as a new image file.
 
 
-/*
-import javax.imageio.ImageIO;
-import java.awt.image.BufferedImage;
-import java.io.File;
-import java.io.IOException;
-*/
+<p>import javax.imageio.ImageIO;</p>
+<p>import java.awt.image.BufferedImage;</p>
+<p>import java.io.File;</p>
+<p>import java.io.IOException;</p>
+
 
 public class ImageCropper {
 
